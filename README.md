@@ -1,16 +1,8 @@
-# basic_navigation
+📱 Flutter Bottom Navigation App
+This is a basic Flutter app demonstrating how to use a BottomNavigationBar with 5 separate pages:
 
-A new Flutter project.
+Home, Chat, Search, Settings, Profile
 
-## Getting Started
+Each screen is in its own file, and navigation is managed through a centralized MainPage.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/963fbedc-2cee-4944-a1a5-05f2dc4b22fc)
